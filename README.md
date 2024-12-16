@@ -17,11 +17,5 @@ This is a simple Dart program to calculate the total cost of grocery items, incl
 ```
 Total price before tax: $19.63
 Total price after tax: $21.59
-
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
-```
-This version provides a straightforward overview and instructions for using the program, focusing on ease of understanding and execution.
+![image](https://github.com/user-attachments/assets/090f73a1-0037-4021-aecd-11322242d65a)
